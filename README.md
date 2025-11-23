@@ -1,11 +1,11 @@
 <div>
-<h1>👋Hello, My name is Phatryio Miranda Nascimento</h1>
-<strong></strong>
+<h1>👋Hey, my name is Phatryio Miranda Nascimento</h1>
+
 <h2>📘I'm a programming student.
   <br>
   💻I have experience with HTML, CSS(SCSS), and JavaScript.
   <br>
-  🖥I'm currently studying TypeScript, Node.js. and Angular</h2>
+  📚I'm currently studying TypeScript, Node.js and Angular</h2>
 </div>
 
 
@@ -23,6 +23,7 @@
   ##
  
 <div> 
+  
   <a href = "mailto:phatrycio137@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/phatrycio-miranda-nascimento-b55ab3282" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
