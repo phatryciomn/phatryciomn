@@ -4,6 +4,8 @@
 
 <h2>📘I'm a programming student.
   <br>
+  ✏I'm in the last semester of my Systems Analysis and Development degree.
+  <br>
   💻I have experience with HTML, CSS(SCSS), and JavaScript.
   <br>
   📚I'm currently studying TypeScript, Node.js and Angular</h2>
