@@ -8,7 +8,7 @@
   <br>
   💻I have experience with HTML, CSS(SCSS), and JavaScript.
   <br>
-  📚I'm currently studying TypeScript, Node.js and Angular</h2>
+  📚I'm currently studying TypeScript, Node.js and React Native</h2>
 </div>
 
 
@@ -18,7 +18,6 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
           
 </div>
