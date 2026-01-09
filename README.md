@@ -1,14 +1,14 @@
 **`Desenvolvedor FullStack`**
 <div>
-<h1>👋Hey, my name is Phatrycio Miranda Nascimento</h1>
+<h2>👋Hey, my name is Phatrycio Miranda Nascimento</h2>
 
-<h2>📘I'm a programming student.
+<h3>📘I'm a programming student.
   <br>
   ✏I'm in the last semester of my Systems Analysis and Development degree.
   <br>
   💻I have experience with HTML, CSS(SCSS), and JavaScript.
   <br>
-  📚I'm currently studying TypeScript, Node.js and React Native</h2>
+  📚I'm currently studying TypeScript, Node.js and React Native</h3>
 </div>
 
 
